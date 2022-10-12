@@ -15,3 +15,15 @@
     }
   }
 }
+@include media-xsm {
+  .navbar {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+@include media-sm {
+  .navbar {
+    flex-direction: row;
+  }
+}
