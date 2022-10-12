@@ -8,7 +8,7 @@ Project aims to use and learn  react
  [👍click here to see page](https://mmehel52.github.io/reactprj/)
  
 ## Demo
-<img src="" width="900"/>
+<img src="https://github.com/mmehel52/reactprj/blob/master/Animation.gif" width="900"/>
 
 
       
